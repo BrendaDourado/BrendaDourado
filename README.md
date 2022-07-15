@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @BrendaDourado
-- 👀 I’m interested in Junior programmer/Data science job positions or internships
-- 🌱 I’m currently learning Java, Sql, PHP, python, BI and others.
-- 💞 I’m looking to collaborate on beginner java projects.
-- 📫 How to reach me: call (61) 999265686; Send a message on WhatsApp: (61) 986742115 or email-me on brendapdourado@gmail.com
+- 👀 I’m Software Developer Intern at Iteris 
+- 🌱 I’m currently learning Java, Sql, C#, Node, Vue and others.
+- 💞 I’m looking to collaborate on beginner Java projects.
+- 🌍 I'm fluence in Spanish and French and I'm learn English;
+- 📫 How to reach me: call +55(61)999265686; Send a message on WhatsApp: +55(61)986742115 or email-me on brendapdourado@gmail.com
 
 <!---
 BrendaDourado/BrendaDourado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
