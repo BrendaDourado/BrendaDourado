@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrendaDourado
-- 👀 I’m Software Developer Intern at Iteris 
+- 👀 I’m Software Developer at Iteris 
 - 🌱 I’m currently learning Java, Sql, C#, Node, Vue and others.
 - 💞 I’m looking to collaborate on beginner Java projects.
 - 🌍 I'm fluence in Spanish and French and I'm learn English;
